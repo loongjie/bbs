@@ -1,0 +1,117 @@
+
+.show_yma{
+	width:80%;
+	height:35px;
+	margin:0 auto;
+	margin-top:10px;
+}
+.show_yma a.show_reply{
+	float:right;
+	width:75px;
+	height:35px;
+	line-height:30px;
+	text-align:center;
+	background:#006666;
+	color:white;
+	margin-right:20px;
+}
+.show_tz{
+	width:80%;
+	height:250px;
+	margin:0 auto;
+	margin-top:15px;
+	background: none repeat scroll 0 0 #fff;
+	border-bottom:1px solid #ccc;
+}
+.touxiang{
+	width:200px;
+	height:250px;
+	float:left;
+	border:1px solid #ccc;
+}
+.touxiang img{
+	margin-top:20px;
+	margin-left:20px;
+}
+.touxiang span{
+	margin-left:75px;
+	font-weight:bold;
+}
+.show_title{
+	float:left;
+	width:78%;
+	height:30px;
+	padding-left:25px;
+	padding-top:18px;
+}
+.cs{
+	margin-left:10px;
+	float:left;
+	font-size:19px;
+	font-weight:bold;
+}
+.sl{
+	float:right;
+	margin-right:10px;
+}
+.show_time{
+	width:81%;
+	border-top:1px solid #ccc;
+	padding-top:7px;
+	float:left;
+}
+.show_time1{
+	margin-left:13px;
+}
+.show_time2{
+	color:red;
+	font-weight:bold;
+	margin-left:600px;
+}
+.show_content{
+	margin-top:15px;
+	float:left;
+	margin-left:20px;
+}
+.show_time1111{
+	width:81%;
+	margin-top:15px;
+	float:left;
+	padding-bottom:6px;
+	border-bottom:1px solid #ccc;
+}
+.show_time11{
+	margin-left:20px;
+}
+.show_time22{
+	margin-left:535px;
+}
+
+.yinyon{
+	background:#ccc;
+	width:840px;;
+	height:44px;
+	padding-left:8px;
+	padding-top:6px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,67 @@
+
+
+.reply_top{
+	width:80%;
+	height:30px;
+	margin:0 auto;
+	margin-top:10px;
+}
+.reply_content{
+	width:80%;
+	height:500px;
+	margin:0 auto;
+	margin-top:10px;
+	background:#fff;
+	border:1px solid #ccc;
+}
+.reply_content p{
+	margin-left:10px;
+	margin-top:15px;
+}
+
+.reply_content .content{
+	width:98%;
+	height:250px;
+	margin:0 auto;
+	margin-top:10px;
+	margin-left:10px;
+	float:left;
+}
+
+.rep_submit{
+	width:60px;
+	height:45px;
+	float:left;
+	background:#3399CC;
+	color:white;
+	margin-left:10px;
+	margin-top:13px;
+}
+.reply_content p{
+	width:98%;
+	margin:0 auto;
+	margin-top:10px;
+	margin-bottom:10px;
+}
+.huifu{
+	width:98%;
+	height:80px;
+	background:#ccc;
+	margin:0 auto;
+	margin-left:10px;
+	margin-top:10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

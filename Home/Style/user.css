@@ -1,0 +1,83 @@
+
+
+.user_top{
+	width:80%;
+	height:20px;
+	margin:0 auto;
+	margin-top:8px;
+	border-bottom:1px solid #ccc;
+	
+}
+.bigbigbox{
+	width:80%;
+	height:600px;
+	boder:1px solid #ccc;
+	margin:0 auto;
+	margin-top:10px;
+	background:#fff;
+}
+.users{
+	width:80%;
+	height:600px;
+	float:left;
+}
+.user_photo{
+	width:18%;
+	height:600px;
+	float:left;
+	border-left:1px solid #ccc;
+}
+.user_main{
+	width:90%;
+	height:85px;
+	margin:10px auto 0;
+	border-top:1px solid #ccc;
+	border-bottom:1px solid #ccc;
+}
+.user_main img{
+	float:left;
+	width:60px;
+	height:60px;
+	border:1px solid black;
+	margin-top:13px;
+}
+.user_title{
+	float:left;
+	width:550px;
+	height:60px;
+	margin-top:13px;
+	margin-left:10px;
+}
+.user_title p{
+	margin-top:6px;
+}
+.user_title .p1{
+	font-weight:bold;
+	color:blue;
+}
+.a{
+	width:60px;
+	height:60px;
+	float:right;
+	margin-left:10px;
+	background:#ccc;
+	text-align:center;
+	margin-top:13px;
+}
+.user_photo img{
+	width:150px;
+	height:100px;
+	margin-left:30px;
+	margin-top:20px;
+	border:1px solid #ccc;
+}
+.user_photo p{
+	text-align:center;
+	margin-top:5px;
+	margin-left:10px;
+}
+.pageuser{
+	width:50%;
+	padding-top:10px;
+	padding-left:32px;
+}
